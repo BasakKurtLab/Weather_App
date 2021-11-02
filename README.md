@@ -27,3 +27,5 @@ yarn lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+![weather](https://user-images.githubusercontent.com/79793959/139822450-0dfac236-a587-4925-bef4-5f8da9cd6876.png)
